@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:testPlugin/plugin2/plugin2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:testPlugin/plugin1/plugin1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:testPlugin/factory/factory.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:testPlugin/common/common.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "container:testPlugin/testPlugin.xcodeproj">
+   </FileRef>
+</Workspace>
